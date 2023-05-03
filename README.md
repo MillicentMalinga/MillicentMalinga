@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Millicent Malinga]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://drive.google.com/file/d/1mCCe3NgokJCL4w1QkowsNksdJQofjG9A/view?usp=share_link)
 
 ## About Me 🚀
 
