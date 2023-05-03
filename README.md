@@ -1,16 +1,16 @@
-# Hi there, I'm [Millicent Malinga]! 👋
+# Hi there, I'm Millicent Malinga 👋
 
-![Banner Image](https://drive.google.com/file/d/1mCCe3NgokJCL4w1QkowsNksdJQofjG9A/view?usp=share_link)
+![Banner Image](https://github.com/MillicentMalinga/images/blob/main/DSC02281-min.png)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Cloud DevOps Engineering** with experience in **AWS Cloud DevOps and Backend Engineering**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **Cloud DevOps and Software Engineering with IBM on Coursera**
+- 🔭 Working on: **Medical Practitioners Database**
+- 🌍 Languages: **Python, Nodejs, Javascript**
+- 📫 How to reach me: **[millicentmalinga19@gmail.com]**
+- ⚡ Fun fact: **[I love errors!]**
 
 ## My Skills 🧠
 
